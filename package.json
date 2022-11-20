@@ -1,0 +1,13 @@
+{
+  "name": "datbois-rev-tracker",
+  "version": "1.0.0",
+  "description": "keep track of datbois revenue streams and collect data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "datboimatt#0001 & $now#1369",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {}
+}
